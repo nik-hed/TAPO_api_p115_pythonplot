@@ -1,5 +1,5 @@
 # TAPO_api_p115_pythonplot
-Uses TAPO API to get monthly energy usage from all devices into one plot.From today to 6 months back.
+Uses TAPO API to get monthly energy usage from all devices into one plot, from today to 6 months back.
 
 Creates the following plot:
 
